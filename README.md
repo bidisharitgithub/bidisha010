@@ -3,11 +3,13 @@
 Whether you're a beginner looking to explore different languages or an experienced developer seeking inspiration and collaboration, this repository offers a diverse collection of code snippets, projects, and resources to enhance your programming journey.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bidisharitgithub&label=Profile%20views&color=0e75b6&style=flat" alt="bidisharitgithub" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/@dutta_bidi8121" target="blank"><img src="https://img.shields.io/twitter/follow/@dutta_bidi8121?logo=twitter&style=for-the-badge" alt="@dutta_bidi8121" /></a> </p>
 
 - 🌱 I’m currently learning **React Native,Block Chain,AI**
+
+- 💬 Ask me about *Android*
 
 - 📫 How to reach me **bidishadutta092002@gmail.com**
 
