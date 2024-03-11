@@ -7,7 +7,7 @@ Whether you're a beginner looking to explore different languages or an experienc
 
 <p align="left"> <a href="https://twitter.com/@dutta_bidi8121" target="blank"><img src="https://img.shields.io/twitter/follow/@dutta_bidi8121?logo=twitter&style=for-the-badge" alt="@dutta_bidi8121" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native,Block Chain,AI**
 
 - 📫 How to reach me **bidishadutta092002@gmail.com**
 
