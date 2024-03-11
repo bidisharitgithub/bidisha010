@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
 <h1 align="center">Hi 👋, I'm Bidisha Dutta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img alingn="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bidisharitgithub&label=Profile%20views&color=0e75b6&style=flat" alt="bidisharitgithub" /> </p>
 
