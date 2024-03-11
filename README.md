@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bidisharitgithub&show_icons=true&locale=en" alt="bidisharitgithub" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bidisharitgithub&" alt="bidisharitgithub" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bidisharitgithub&" alt="bidisharitgithub" /></p>
