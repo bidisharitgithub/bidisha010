@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Bidisha Dutta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1>Hi 👋, I'm Bidisha Dutta</h1>
+<h3>Welcome to the Universal Code Repository! This repository serves as a versatile hub for projects spanning various programming languages and technologies, including Java, C++, Python, React.js, React Native, SQL, HTML, CSS, and JavaScript.
+Whether you're a beginner looking to explore different languages or an experienced developer seeking inspiration and collaboration, this repository offers a diverse collection of code snippets, projects, and resources to enhance your programming journey.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bidisharitgithub&label=Profile%20views&color=0e75b6&style=flat" alt="bidisharitgithub" /> </p>
