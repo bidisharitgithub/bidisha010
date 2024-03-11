@@ -9,7 +9,7 @@ Whether you're a beginner looking to explore different languages or an experienc
 
 - 🌱 I’m currently learning **React Native,Block Chain,AI**
 
-- 💬 Ask me about *Android*
+- 💬 Ask me about **Android**
 
 - 📫 How to reach me **bidishadutta092002@gmail.com**
 
