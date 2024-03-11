@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Bidisha Dutta</h1>
-<h3>Empower your projects with the efficiency of bidisharitgithub. Streamline development, enhance collaboration, and boost productivity with this comprehensive collection of meticulously crafted code, utilities, and resources. From cutting-edge algorithms to time-saving utilities, [Your Repository Name] is your go-to toolkit for building robust, scalable, and innovative software solutions. Dive into a world of seamless integration and optimized workflows – your key to elevating your development experience to new heights. Unleash the full potential of your codebase with bidisharitgithub – where innovation meets reliability.</h3>
+<h3>Empower your projects with the efficiency of bidisharitgithub. Streamline development, enhance collaboration, and boost productivity with this comprehensive collection of meticulously crafted code, utilities, and resources. From cutting-edge algorithms to time-saving utilities, bidisharitgithub is your go-to toolkit for building robust, scalable, and innovative software solutions. Dive into a world of seamless integration and optimized workflows – your key to elevating your development experience to new heights. Unleash the full potential of your codebase with bidisharitgithub – where innovation meets reliability.</h3>
 
 
 
